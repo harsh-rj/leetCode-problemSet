@@ -1,3 +1,4 @@
+// works but not a good method
 #include <bits/stdc++.h>
 using namespace std;
 
